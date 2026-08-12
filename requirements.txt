@@ -1,0 +1,9 @@
+chromadb
+langchain-community
+langchain-groq
+langchain-text-splitters
+pypdf
+sentence-transformers
+streamlit
+torch
+torchvision
